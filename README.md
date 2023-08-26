@@ -1,1 +1,1 @@
-# projectx
+print("hello world")
